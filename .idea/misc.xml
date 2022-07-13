@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/gagal/AndroidStudioProjects/Exam3/app/src/main/res/drawable/ic_arrow_right.xml" value="0.183" />
+        <entry key="..\:/Users/gagal/AndroidStudioProjects/Exam3/app/src/main/res/drawable/ic_baseline_dark_mode.xml" value="0.183" />
+        <entry key="..\:/Users/gagal/AndroidStudioProjects/Exam3/app/src/main/res/drawable/ic_baseline_filter.xml" value="0.2115" />
+        <entry key="..\:/Users/gagal/AndroidStudioProjects/Exam3/app/src/main/res/drawable/ic_baseline_help.xml" value="0.183" />
+        <entry key="..\:/Users/gagal/AndroidStudioProjects/Exam3/app/src/main/res/drawable/ic_baseline_language.xml" value="0.183" />
+        <entry key="..\:/Users/gagal/AndroidStudioProjects/Exam3/app/src/main/res/drawable/ic_baseline_location.xml" value="0.183" />
+        <entry key="..\:/Users/gagal/AndroidStudioProjects/Exam3/app/src/main/res/drawable/ic_baseline_logout.xml" value="0.183" />
+        <entry key="..\:/Users/gagal/AndroidStudioProjects/Exam3/app/src/main/res/drawable/ic_baseline_more_horiz_24.xml" value="0.2105" />
+        <entry key="..\:/Users/gagal/AndroidStudioProjects/Exam3/app/src/main/res/drawable/ic_baseline_notifications.xml" value="0.183" />
+        <entry key="..\:/Users/gagal/AndroidStudioProjects/Exam3/app/src/main/res/drawable/ic_baseline_payment.xml" value="0.183" />
+        <entry key="..\:/Users/gagal/AndroidStudioProjects/Exam3/app/src/main/res/drawable/ic_baseline_people.xml" value="0.183" />
+        <entry key="..\:/Users/gagal/AndroidStudioProjects/Exam3/app/src/main/res/drawable/ic_baseline_person.xml" value="0.183" />
+        <entry key="..\:/Users/gagal/AndroidStudioProjects/Exam3/app/src/main/res/drawable/ic_baseline_privacy.xml" value="0.183" />
+        <entry key="..\:/Users/gagal/AndroidStudioProjects/Exam3/app/src/main/res/drawable/ic_baseline_security.xml" value="0.183" />
+        <entry key="..\:/Users/gagal/AndroidStudioProjects/Exam3/app/src/main/res/drawable/image_background.xml" value="0.2115" />
+        <entry key="..\:/Users/gagal/AndroidStudioProjects/Exam3/app/src/main/res/layout/activity_main.xml" value="0.5" />
+        <entry key="..\:/Users/gagal/AndroidStudioProjects/Exam3/app/src/main/res/layout/custom_item.xml" value="0.5" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

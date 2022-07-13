@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Exam 3</string>
+    <string name="phone_number">+ 1 114 378 399</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="profile">Profile</string>
+    <string name="address">Address</string>
+    <string name="notification">Notification</string>
+    <string name="payment">Payment</string>
+    <string name="security">Security</string>
+    <string name="language">Language</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="help_center">Help Center</string>
+    <string name="invite_friends">Invite Friends</string>
+    <string name="logout"> <font color='BA362D'>Logout</font></string>
+    <string name="english">English(US)</string>
+</resources>
